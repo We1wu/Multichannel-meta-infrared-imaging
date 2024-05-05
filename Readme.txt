@@ -11,3 +11,8 @@ Running "Test.m" will call the function "MCA_Sensor.m" to display the simulated 
 All image data and labels used in the simulations are provided in the File "Images and Labels".
 
 The datafiles of simulated results are located in the director of "Simulation Results".
+
+
+/***************************************************/
+Please use git lfs to clone this project.
+/***************************************************/
